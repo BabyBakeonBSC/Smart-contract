@@ -2,7 +2,7 @@
 open souce , ya all welcome.
 DECLARATION 
 
-We thank you for your interest in the WoldDOGE project(hereinafter referred to as "Project"), WoldDOGE token sale, and WolfDOGE tokens (hereinafter referred to as "Tokens"). However, it is well-known that crypto projects are exposed to various risks, which you shall take into account before participating in the Token sale. What is mentioned below does not exhaust all the risks and uncertainties that Project might possibly face. Additional risks and uncertainties might also have a negative effect on Tokens.
+We thank you for your interest in the WolfDOGE project(hereinafter referred to as "Project"), WolfDOGE token sale, and WolfDOGE tokens (hereinafter referred to as "Tokens"). However, it is well-known that crypto projects are exposed to various risks, which you shall take into account before participating in the Token sale. What is mentioned below does not exhaust all the risks and uncertainties that Project might possibly face. Additional risks and uncertainties might also have a negative effect on Tokens.
 
 1. Risk that pertains to the value of Tokens
 1.1 The rights, functions, and features are strictly limited to the point that Token's smart contract has demonstrated. Therefore, there are no further rights, functions, and features of the Tokens of the Project strictly provided in the smart contract. 
